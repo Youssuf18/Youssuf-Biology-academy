@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Youssuf Khalaf - Biology Teacher</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #0066cc;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .contact-info {
+            margin-top: 20px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .contact-info a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Youssuf Khalaf</h1>
+        <h2>Biology Teacher</h2>
+        <p>Welcome to my webpage!</p>
+        <p>I am a passionate biology teacher dedicated to inspiring and educating students about the wonders of life sciences.</p>
+        <div class="contact-info">
+            <h3>Contact Information</h3>
+            <p>Phone: <a href="tel:01023123698">01023123698</a></p>
+            <p>Email: <a href="mailto:khalaf_youssef@yahoo.com">khalaf_youssef@yahoo.com</a></p>
+            <p>Facebook: <a href="https://www.facebook.com/BiologySmartReference" target="_blank">Biology Smart Reference</a></p>
+        </div>
+    </div>
+</body>
+</html>
